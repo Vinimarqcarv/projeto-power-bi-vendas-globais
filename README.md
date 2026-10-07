@@ -51,10 +51,7 @@ Além disso, é possível avaliar a média de desconto aplicada em diferentes su
 
 ## 🖼️ Dashboard
 
-
-
-## 📄 Arquivos do projeto
-
+![projeto-power-bi-vendas-globais](dashboard-vendas-globais.png)
 
 ## 🎓 Formação
 
